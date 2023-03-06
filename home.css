@@ -1,0 +1,73 @@
+footer{
+    background-color: #99A3A4;
+    padding: 50px;
+}
+footer .pages{
+    text-align: center;
+}
+footer .pages h3{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-family: cosmic, sans-serif;
+    padding: 5px; 
+}
+footer .pages a{
+    text-decoration: none;
+    margin: 10px;
+    color: orange;
+    font-size: 15px;
+    font-family: cosmic, sans-serif;
+}
+footer .pages a:hover{
+    color: white;
+}
+footer .doc{
+    text-align: center;
+}
+footer .doc h3{
+    color: black;
+    font-size: 20px;
+    font-family: cosmic, sans-serif;
+    padding: 5px; 
+}
+footer .doc a{
+    text-decoration: none;
+    margin: 10px;
+    color: orange;
+    font-size: 15px;
+    font-family: cosmic, sans-serif;
+}
+footer .doc a:hover{
+    color: white;
+}
+footer .social{
+    text-align: center;
+}
+footer .social h3{
+    color: black;
+    font-size: 20px;
+    font-family: cosmic, sans-serif;
+    padding: 5px; 
+}
+footer .social a{
+    text-decoration: none;
+    font-size: 30px;
+    color: orange;
+    margin: 10px;
+}
+
+footer .contact{
+    text-align: center;
+}
+footer .contact h3{
+    color: rgb(233, 16, 16);
+    font-size: 20px;
+    font-family: cosmic, sans-serif;
+    padding: 5px; 
+}
+footer .contact a{
+    font-size: 30px;
+    color: orange;
+    margin: 10px;
+}
